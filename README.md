@@ -644,12 +644,12 @@ public class MyApplication {
         WowzaAccount.setVerboseLog(true);
 
         // Register the Wowza keys
-        WowzaAccount.setApiKey_iOS("GOSK-0F47-010C-9585-C2FC-7E20");
-        WowzaAccount.setApiKey_Android("GOSK-FE46-010C-E1D2-F6DA-1DCB");
-        // xor encoded: 1udfMaUUqioU6XwECtsy26k3PUXgCkX4X8LS1QA4UCTtekLwDNPC4gfP060z320e
+        WowzaAccount.setApiKey_iOS("GOSK-ABCD-ABCD-ABCD-ABCD-ABCD");
+        WowzaAccount.setApiKey_Android("GOSK-ABCD-ABCD-ABCD-ABCD-ABCD");
+        // xor encoded: your-real-api-private-key in a comment
         // https://www.codenameone.com/demos/StringEncoder/index.html
-        WowzaAccount.setRestKey("MHdnYkhnUl14Y2RZO1Z4VVJmYG0nIHwrSU9De151RxR5Gm93FHdmHHxpf1hIRWNHdXxjdwFRUWgJDAtGDgwPJQ==");
-        WowzaAccount.setAccessKey("6Z1wCRpb2gpgdSQgn3pKILcPiGRgywj6Pq4MKjGzy3ajzrQFyKrwVQQeajwa3662");
+        WowzaAccount.setRestKey("your-secret-key-obfuscated");
+        WowzaAccount.setAccessKey("your-access-key");
     }
 
     public void start() {
