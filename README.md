@@ -162,9 +162,7 @@ At this point, you should have the required four keys to use this CN1Lib.
 
 ## Javadocs of this CN1Lib
 
-See the Javadocs: 
-
-The main class to be used is: 
+See the Javadocs: https://jsfan3.github.io/CN1Libs-WowzaLiveStreaming/
 
 # Example of usage, step by step
 
