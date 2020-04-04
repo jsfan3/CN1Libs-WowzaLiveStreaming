@@ -1,3 +1,6 @@
+__ALERT: this CN1Lib is deprecated because, on 2nd April 2020, Wowza (without any previous warning) sent to its customers this notice__: _«In order to bring you the best solutions platform now and in the future, we are sunsetting the Wowza GoCoder SDK. This process will start on April 2, 2020 and conclude on January 5, 2021. [...] __On April 2, 2020, the Wowza GoCoder SDK will only be available to current customers who signed up prior to April 2, 2020. The Wowza GoCoder SDK will still be fully supported for these customers until January 5, 2021, but enhancements and fixes will be handled on a case-by-case basis. As of January 5, 2021, the Wowza GoCoder SDK will no longer be available or supported.__ Commercial licenses to the SDK will end and any usage following this date will be solely at the customer’s discretion, understanding Wowza will no longer offer support of any kind for the SDK. [...]»_
+
+More info: https://info.wowza.com/product-notification-april-2020
 
 Wowza Live Streaming Events for Codename One<br>Table of Contents
 =================
